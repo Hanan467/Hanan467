@@ -20,10 +20,4 @@ Information System Student at Addis Ababa University!!🎓
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📈 GitHub Stats 
 
-[![Hanan's github stats](https://github-readme-stats.vercel.app/api?username=Hanan467)](https://github.com/Hanan467)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan467&layout=compact)](https://github.com/Hanan467)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hanan467.Hanan467)](https://www.Hanan.dev/)
