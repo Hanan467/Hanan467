@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/nihaesmael?r=nametag">
     <img alt="Hanan | Instagram" width="32px" align= 'center' src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-  <a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  <a href = 'https://www.linkedin.com/in/hanan-ansar/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/Hanan467'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br>
 <br>
